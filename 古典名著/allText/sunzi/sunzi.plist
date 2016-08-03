@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>始计篇</string>
+	<string>作战篇</string>
+	<string>谋攻篇</string>
+	<string>军形篇</string>
+	<string>兵势篇</string>
+	<string>虚实篇</string>
+	<string>军争篇</string>
+	<string>九变篇</string>
+	<string>行军篇</string>
+	<string>地形篇</string>
+	<string>九地篇</string>
+	<string>火攻篇</string>
+	<string>用间篇</string>
+</array>
+</plist>

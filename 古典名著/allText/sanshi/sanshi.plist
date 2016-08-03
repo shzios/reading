@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>瞒天过海</string>
+	<string>围魏救赵</string>
+	<string>借刀杀人</string>
+	<string>以逸待劳</string>
+	<string>趁火打劫</string>
+	<string>声东击西</string>
+	<string>无中生有</string>
+	<string>暗渡陈仓</string>
+	<string>隔岸观火</string>
+	<string>笑里藏刀</string>
+	<string>李代桃僵</string>
+	<string>顺手牵羊</string>
+	<string>打草惊蛇</string>
+	<string>借尸还魂</string>
+	<string>调虎离山</string>
+	<string>欲擒故纵</string>
+	<string>抛砖引玉</string>
+	<string>擒贼擒王</string>
+	<string>釜底抽薪</string>
+	<string>混水摸鱼</string>
+	<string>金蝉脱壳</string>
+	<string>关门捉贼</string>
+	<string>远交近攻</string>
+	<string>假道伐虢</string>
+	<string>偷梁换柱</string>
+	<string>指桑骂槐</string>
+	<string>假痴不癫</string>
+	<string>上屋抽梯</string>
+	<string>树上开花</string>
+	<string>反客为主</string>
+	<string>美人计</string>
+	<string>空城计</string>
+	<string>反间计</string>
+	<string>苦肉计</string>
+	<string>连环计</string>
+	<string>走为上计</string>
+</array>
+</plist>
